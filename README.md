@@ -7,18 +7,6 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 - See my youtube channel: [ARTHUR PC](https://www.youtube.com/c/arthurpc)
 - See my LinkedIn: [ARTHUR PC](https://www.linkedin.com/in/arthurpc03/)
 
-<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
-  <a href="https://www.youtube.com/c/arthurpc">
-    <img src="./github/youtube.png" alt="youtube" height="50">
-  </a>
-  <a href="https://www.linkedin.com/in/arthurpc03/">
-    <img src="./github/linkedin.png" alt="linkedin" height="50">
-  </a>
-</div>
-
-
-
-
 
 <!--
 **ARTHURPC03/ARTHURPC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
