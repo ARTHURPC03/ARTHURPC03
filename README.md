@@ -7,6 +7,11 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 - See my youtube channel: [ARTHUR PC](https://www.youtube.com/c/arthurpc)
 - See my LinkedIn: [ARTHUR PC](https://www.linkedin.com/in/arthurpc03/)
 
+[![ARTHUR PC's github stats](https://github-readme-stats.vercel.app/api?username=arthurpc03&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpc03&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.youtube.com/c/arthurpc">
     <img src="./github/youtube.png" alt="youtube" height="50">
