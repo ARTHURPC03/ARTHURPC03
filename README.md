@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Gostack at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
 
-- 🔭 I’m currently working on MangoBits.
+- 🔭 I’m currently working on Accenture.
 - 🌱 I have experience with Typescript, Node.js, ReactJS, and React Native.
 - See my youtube channel: [ARTHUR PC](https://www.youtube.com/c/arthurpc)
 - See my LinkedIn: [ARTHUR PC](https://www.linkedin.com/in/arthurpc03/)
