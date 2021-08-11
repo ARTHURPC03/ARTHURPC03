@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Gostack at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
+I'm a React Native Senior Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Gostack at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
 
 - 🔭 I’m currently working on Platform Builders.
 - 🌱 I have experience with Typescript, Node.js, ReactJS, and React Native.
-- See my youtube channel: [ARTHUR PC](https://www.youtube.com/c/arthurpc)
+- See my YouTube channel: [ARTHUR PC](https://www.youtube.com/c/arthurpc)
 - See my LinkedIn: [ARTHUR PC](https://www.linkedin.com/in/arthurpc03/)
 
 <div align="center" >
@@ -13,10 +13,10 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpc03&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.youtube.com/c/arthurpc">
-    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/youtube.png" alt="youtube" height="50">
+    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/youtube.png" alt="YouTube" height="50">
   </a>
   <a href="https://www.linkedin.com/in/arthurpc03/">
-    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="linkedin" height="50">
+    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
   </a>
 </div>
 </div>
